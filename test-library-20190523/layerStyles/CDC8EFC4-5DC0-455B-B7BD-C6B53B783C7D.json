@@ -1,0 +1,17 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "CDC8EFC4-5DC0-455B-B7BD-C6B53B783C7D",
+  "name": "Opacity/40",
+  "value": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.4000000059604645
+    },
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

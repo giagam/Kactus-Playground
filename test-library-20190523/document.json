@@ -1,0 +1,100 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1674592391304348,
+          "green": 0.144755876203357,
+          "red": 0.1486617377558793
+        },
+        "name": "offBlack"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 0.96,
+          "red": 0.9668815559440559
+        },
+        "name": "offWhite"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8,
+          "green": 0.16,
+          "red": 0.2701048951048949
+        },
+        "name": "primary"
+      }
+    ],
+    "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.1674592391304348,
+        "green": 0.144755876203357,
+        "red": 0.1486617377558793
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 1,
+        "green": 0.96,
+        "red": 0.9668815559440559
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8,
+        "green": 0.16,
+        "red": 0.2701048951048949
+      }
+    ],
+    "gradientAssets": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "86E1B09B-F5BD-4E39-A82C-F3914AEA14A1",
+  "foreignLayerStyles": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "55",
+    "build": 78076,
+    "version": 118
+  },
+  "pages": [
+    "Preview",
+    "Colors",
+    "Layer Styles",
+    "Text Styles",
+    "Symbols"
+  ]
+}

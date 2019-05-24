@@ -1,0 +1,125 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5F38F5C3-70D4-464A-9DDD-B660A3FF92A1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "60B8FFB0-387F-4392-93E0-4AA46DB56B8A"
+    },
+    {
+      "class": "group",
+      "id": "93D558C8-3FE4-45E2-A7D5-8906DE83F502"
+    },
+    {
+      "class": "group",
+      "id": "DE353A4C-6733-463C-B1FA-F8E9ADFFE269"
+    },
+    {
+      "class": "group",
+      "id": "821C3920-E03F-47CB-93DB-326FAEBCF0EA"
+    },
+    {
+      "class": "shapePath",
+      "id": "318D499F-9FBA-4836-9F31-A0053E8E2FDA"
+    },
+    {
+      "class": "shapePath",
+      "id": "126626B0-2DFC-41A5-8202-447C0CCB9FF7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2CD29CC9-A147-4FB6-A704-907EFC20E557"
+    },
+    {
+      "class": "group",
+      "id": "6F1EC6E0-930A-42C3-B376-427CE3356571"
+    },
+    {
+      "class": "group",
+      "id": "06E77314-FD5B-42DB-83AB-9CDCB9FD066C"
+    },
+    {
+      "class": "group",
+      "id": "32C7CBA5-99AA-4232-BE35-AC0211304725"
+    },
+    {
+      "class": "group",
+      "id": "C0221894-DA22-4E08-843A-C28F67163F0F"
+    },
+    {
+      "class": "group",
+      "id": "F4E39511-A2F2-4D32-A8F0-577D1542C387"
+    },
+    {
+      "class": "group",
+      "id": "D0BAF9D7-0EC1-4AB4-B163-0EB8F095645C"
+    },
+    {
+      "class": "group",
+      "id": "FB85B267-0E3A-4D1B-ABBC-3C850D09CA41"
+    }
+  ],
+  "name": "Colors",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.betterthantomorrow.sketch.distributor": {
+      "distributorCenterSpacing": 0,
+      "distributorDimension": 0,
+      "distributorSpacing": "48"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
