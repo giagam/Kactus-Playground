@@ -1,8 +1,15 @@
 {
-  "_class": "page",
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "52805E8A-232B-4245-8523-1335BD7CF4B1",
+  "do_objectID": "3D48F3D1-6072-4E7D-AC34-83F66DAAC930",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,45 +22,45 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "height": 655,
+    "width": 762,
+    "x": 417,
+    "y": -384
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -488,
+    "base": 0,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "E5E86D6F-D6B1-46DF-AE0B-79F742ACFBA7"
-    },
-    {
-      "class": "artboard",
-      "id": "3D48F3D1-6072-4E7D-AC34-83F66DAAC930"
+      "class": "rectangle",
+      "id": "59A9A6B1-E7B2-43EC-B59D-62D83F3DCBD9"
     }
   ],
-  "name": "Layer Styles",
-  "nameIsFixed": true,
+  "name": "Artboard",
+  "nameIsFixed": false,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endMarkerType": 0,
@@ -61,16 +68,9 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "userInfo": {
-    "com.betterthantomorrow.sketch.distributor": {
-      "distributorCenterSpacing": 0,
-      "distributorDimension": 0,
-      "distributorSpacing": "32"
-    }
-  },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -396,
+    "base": 0,
     "guides": [
     ]
   }
