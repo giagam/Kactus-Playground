@@ -1,15 +1,8 @@
 {
-  "_class": "artboard",
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
+  "_class": "page",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "CB3A66E8-5659-4FF8-8D3C-88EE146030E1",
+  "do_objectID": "D7165E6D-E909-46E4-A440-8A42F92097EA",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,53 +15,41 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 409,
-    "width": 612,
-    "x": 74,
-    "y": 43
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -356,
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "FE5A7EDA-98B3-40BE-A2B6-7F92DC13ECAB"
-    },
-    {
-      "class": "rectangle",
-      "id": "ED4E91CC-86F9-48CB-A1D8-673BFF4D1B22"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "5DEF0B55-C25A-47F6-9DB1-4D9F78FAA9F8"
+      "class": "symbolMaster",
+      "id": "4BE7116C-CA1B-42B2-8DEE-4D590C8299EF"
     }
   ],
-  "name": "Artboard",
-  "nameIsFixed": true,
-  "resizesContent": false,
+  "name": "Symbols",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "endMarkerType": 0,
@@ -78,7 +59,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -364,
     "guides": [
     ]
   }

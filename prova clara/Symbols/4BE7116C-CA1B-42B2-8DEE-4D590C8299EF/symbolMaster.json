@@ -1,5 +1,6 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -8,8 +9,9 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 5,
   "clippingMaskMode": 0,
-  "do_objectID": "CB3A66E8-5659-4FF8-8D3C-88EE146030E1",
+  "do_objectID": "4BE7116C-CA1B-42B2-8DEE-4D590C8299EF",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,10 +24,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 409,
-    "width": 612,
-    "x": 74,
-    "y": 43
+    "height": 64,
+    "width": 64,
+    "x": 100,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -40,6 +42,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -47,23 +50,17 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "FE5A7EDA-98B3-40BE-A2B6-7F92DC13ECAB"
-    },
-    {
-      "class": "rectangle",
-      "id": "ED4E91CC-86F9-48CB-A1D8-673BFF4D1B22"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "5DEF0B55-C25A-47F6-9DB1-4D9F78FAA9F8"
+      "class": "shapeGroup",
+      "id": "955F98FF-251B-4857-B0A9-7EAB881C9A6A"
     }
   ],
-  "name": "Artboard",
-  "nameIsFixed": true,
+  "name": "eye",
+  "nameIsFixed": false,
+  "overrideProperties": [
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -76,6 +73,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "26875784-F06C-43C1-BC62-C7E4D372BFAF",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
