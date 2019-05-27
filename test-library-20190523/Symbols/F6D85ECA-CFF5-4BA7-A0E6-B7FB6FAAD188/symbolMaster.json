@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 133,
+  "changeIdentifier": 134,
   "clippingMaskMode": 0,
   "do_objectID": "F6D85ECA-CFF5-4BA7-A0E6-B7FB6FAAD188",
   "exportOptions": {
@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -62,8 +62,18 @@
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0B0099C1-F3A0-4FE5-A447-FF53D8058F71_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
       "canOverride": false,
       "overrideName": "2031A077-0199-4C5B-9EEB-732AC714563D_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "AB43CE3E-9203-495E-9B41-691A2C22E0E8_layerStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",

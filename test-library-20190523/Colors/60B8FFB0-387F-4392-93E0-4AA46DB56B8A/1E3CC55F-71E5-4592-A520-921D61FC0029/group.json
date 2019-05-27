@@ -33,32 +33,16 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "A17C5297-AD9E-40A6-9F60-0FB66C4D3A21"
+      "class": "symbolInstance",
+      "id": "CD243288-0A66-44FE-A7F3-A320253CA91D"
     },
     {
       "class": "text",
       "id": "BFFB1631-92CE-439E-85FE-51A0D12DB5B2"
     },
     {
-      "class": "rectangle",
-      "id": "75C9F826-6B45-4A18-BB29-2424F42926BE"
-    },
-    {
-      "class": "rectangle",
-      "id": "E9B9704B-13DD-4EB1-AD21-0DCDA839B63E"
-    },
-    {
-      "class": "rectangle",
-      "id": "572AC510-048B-4DB9-96B7-1A31864348FB"
-    },
-    {
-      "class": "rectangle",
-      "id": "38A2D30D-7563-497F-9F31-D0CB618B43A1"
-    },
-    {
-      "class": "rectangle",
-      "id": "0CF0A83D-BBD7-4558-958C-D821AA46DADE"
+      "class": "group",
+      "id": "1A546E24-B334-4E71-893F-D9CBD8D101EE"
     }
   ],
   "name": "Rectangle 3",
@@ -66,35 +50,12 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "61F8AD79-ABF7-48F1-AC35-C53DE3912800",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "421C5497-510E-48D1-8B12-BC5EBD352EC2",
     "endMarkerType": 0,
     "miterLimit": 10,
-    "shadows": [
-      {
-        "_class": "shadow",
-        "blurRadius": 16,
-        "color": {
-          "_class": "color",
-          "alpha": 0.2,
-          "blue": 0,
-          "green": 0,
-          "red": 0
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "isEnabled": true,
-        "offsetX": 0,
-        "offsetY": 4,
-        "spread": 0
-      }
-    ],
     "startMarkerType": 0,
     "windingRule": 1
   }
